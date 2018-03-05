@@ -1,0 +1,12 @@
+body {
+  font-family: "Nexa Light";
+  background: black;
+  color: lime;
+}
+
+a {
+  text-decoration: none;
+  background: lime;
+  padding: 1em;
+  margin: 1em;
+}
